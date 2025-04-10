@@ -1,0 +1,5 @@
+applications:
+  - name: flask-tts-server
+    random-route: true
+    memory: 256M
+    buildpack: python_buildpack
