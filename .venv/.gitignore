@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore environment variables and sensitive files
+.env
+chirindanester@gmail.com
+output.mp3
+
